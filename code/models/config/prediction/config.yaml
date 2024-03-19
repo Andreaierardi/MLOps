@@ -1,0 +1,14 @@
+use_case_id: "test"
+
+dataset_index_column_name: "contract_code"
+general_profiling_consent_column_name: "flg_privacy_consent_profiling_general"
+score_column_name: "score"
+decile_column_name: "decile"
+model_version_column_name: "model_version"
+run_date_column_name: "date_prediction_run"
+prediction_reference_date_column_name: "date_prediction_reference"
+kpis_run_date_column_name: "date_kpis_run"
+decile_consented_column_name: "decile_consented"
+
+
+
